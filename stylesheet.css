@@ -3,6 +3,8 @@
     background-color: #EDE3E9;
     color: #A87A5D;
 }
+ 
+
 h1{
     font-size: 50px;
     font-weight: 700;
@@ -36,4 +38,8 @@ h3,
 h4{
     color: #AB5A84
     ;
+}
+
+.back{
+    text-align: right;
 }
