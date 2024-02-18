@@ -1,0 +1,39 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #EDE3E9;
+    color: #A87A5D;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    text-align: left;
+    color: #965A84
+    ;
+    
+}
+
+.list {
+    font-size: 20px;
+    font: weight 200px;
+    text-align: left;
+}
+
+.list.ingredients{
+    
+    font-size: 18px;
+    font-weight: 100;
+    text-align: left;
+    font-style: italic;
+}
+
+img{
+    height: auto;
+    width: 300px;
+}
+
+h2,
+h3,
+h4{
+    color: #AB5A84
+    ;
+}
